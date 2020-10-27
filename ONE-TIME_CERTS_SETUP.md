@@ -33,7 +33,7 @@ Look in /src/main/resources folders of ADPLibraries or ADP Samples for below two
 
 ## 1. Make a new key file with .pem extension
    
-Ex: Copy contents of apiclient_iat.key to apiclient_key.pem
+Ex: Copy contents of apiclient_iat.key to apiclient_key.pem..
  
 
 ## 2. Generate .pkcs12 file from provided pem and key files using openssl command
